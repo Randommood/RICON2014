@@ -1,7 +1,10 @@
-#RICON2014
+#Testing in a Distributed World
+
+Accompanying repository for "Testing in a distributed world" talk given at [RICON 2014](http://ricon.io). Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
-Will update soon.
+Talk outline coming soon.
+See the [Image credits](credits.md) and link to slides too!
 
 # References
 
@@ -34,7 +37,6 @@ Will update soon.
 * [Microsoft's MoDist Tool Designed to Hunt for Bugs](http://news.softpedia.com/news/Microsoft-039-s-MoDist-Tool-Designed-to-Hunt-for-Bugs-86561.shtml)
 * [Modist talk](http://www.cs.columbia.edu/~junfeng/papers/modist-nsdi09.talk.pdf)
 
-
 ### More Papers
 * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 * [QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs](http://www.eecs.northwestern.edu/~robby/courses/395-495-2009-fall/quick.pdf)
@@ -47,8 +49,7 @@ Will update soon.
 * [WiDS Checker: Combating Bugs in Distributed Systems](https://www.usenix.org/legacy/event/nsdi07/tech/full_papers/liu/liu.pdf)
 * http://www.ida.liu.se/conferences/p2p/p2p2004/papers/hughes.pdf
 
-
-## Industry
+### Industry
 * [Chaos engineer](http://techblog.netflix.com/2014/09/introducing-chaos-engineering.html)
 * ["Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson](https://www.youtube.com/watch?v=4fFDFbi3toc)
 * https://foundationdb.com/key-value-store/white-papers/testing
@@ -58,7 +59,7 @@ Will update soon.
 * [Netflix Canary Testing](http://www.infoq.com/presentations/canary-analysis-deployment-pattern)
 * http://blog.jessitron.com/2014/08/property-based-testing-for-better-code.html
 
-## Tools
+### Tools
 * [Aspirator: A simple static checker](http://www.eecg.toronto.edu/failureAnalysis/)
 * [Aspirator github](https://github.com/diy1/aspirator)
 * [Monitor Oriented Programming](http://fsl.cs.illinois.edu/index.php/MOP)
@@ -68,9 +69,8 @@ Will update soon.
 * [Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
 * [Chaos monkey and Cassandra](http://techblog.netflix.com/2014/10/a-state-of-xen-chaos-monkey-cassandra.html?m=1)
 
-
-## Video Resources
+### Video Resources
+* [Leslie Lamport's Thinking for Programmers](http://channel9.msdn.com/Events/Build/2014/3-642)
 * https://www.youtube.com/watch?v=lKXe3HUG2l4
-* Thinking for Programmers - http://channel9.msdn.com/Events/Build/2014/3-642
 * https://www.youtube.com/watch?v=Q663XyxmGUk
 
