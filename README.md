@@ -4,7 +4,7 @@ Accompanying repository for "Testing in a distributed world" talk given at [RICO
 
 ## Talk Outline
 Talk outline coming soon.
-See the [Image credits](credits.md) and link to slides too!
+See the [Image credits](credits.md) and [link to slides](https://speakerdeck.com/randommood/testing-in-a-distributed-world) too!
 
 # References
 
