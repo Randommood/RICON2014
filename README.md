@@ -3,8 +3,18 @@
 Accompanying repository for "Testing in a distributed world" talk given at [RICON 2014](http://ricon.io). Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
-Talk outline coming soon.
-See the [Image credits](credits.md) and [link to slides](https://speakerdeck.com/randommood/testing-in-a-distributed-world) too!
+See the [image credits](credits.md) and [link to slides](https://speakerdeck.com/randommood/testing-in-a-distributed-world).
+The [video of the talk](http://t.co/IqcKIGy88Z) is available!
+
+The talk is broken down in 4 main sessions:
+* Testing Distributed Systems
+ * Challenges of testing
+* Distributed System Testing in Academia
+ * Formal Methods (Human Assisted Proofs, Model Checking, Lightweight Formal Methods)
+ * Scholarly testing (3 highlighted papers)
+* Distributed System Testing in Industry
+ * Highlighted papers
+* Conclusions
 
 # References
 
