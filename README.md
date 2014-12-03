@@ -1,6 +1,6 @@
 #Testing in a Distributed World
 
-Accompanying repository for "Testing in a distributed world" talk given at [RICON 2014](http://ricon.io). Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for the "Testing in a distributed world" talk given at [RICON 2014](http://ricon.io). Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
 See the [image credits](credits.md) and [link to slides](https://speakerdeck.com/randommood/testing-in-a-distributed-world).
@@ -34,6 +34,7 @@ The talk is broken down in 4 main sessions:
 * [Use of Formal Methods at Amazon Web Services](http://raftuserstudy.s3-website-us-west-1.amazonaws.com/proof.pdf)
 * [Raft and TLA+](https://groups.google.com/forum/#!topic/raft-dev/yu-wOUx-gnA)
 * [Raft TLA+ spec](https://ramcloud.stanford.edu/~ongaro/raft.tla)
+* [TLA tools](https://github.com/joewilliams/tla_tools)
 
 ### Coq
 * http://en.wikipedia.org/wiki/Coq
