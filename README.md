@@ -1,6 +1,6 @@
 #Testing in a Distributed World
 
-Accompanying repository for the "Testing in a distributed world" talk given at [RICON 2014](http://ricon.io). Feel free to open any issues for questions and/or to say hi :)
+Accompanying repository for the "Testing in a distributed world" talk given at [RICON 2014](http://ricon.io/archive/2014/index.html). Feel free to open any issues for questions and/or to say hi :)
 
 ## Talk Outline
 See the [image credits](credits.md) and [link to slides](https://speakerdeck.com/randommood/testing-in-a-distributed-world).
